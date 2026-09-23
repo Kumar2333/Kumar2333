@@ -1,6 +1,6 @@
-# Hi, I'm Kumaravell Sathiyamurthi  👋
+# Hi, I'm Kumaravell Sathiyamurthi 👋
 
-I am an Information Technology undergraduate focused on developing software solutions, business automation systems, and data-driven applications. I enjoy transforming ideas and real-world problems into practical technology solutions.
+I am an Information Technology undergraduate interested in developing digital solutions through software development, business automation, and data-driven applications. I enjoy transforming real-world problems into practical technology solutions that improve efficiency and user experience.
 
 ## 🚀 Areas of Interest
 
@@ -11,34 +11,62 @@ I am an Information Technology undergraduate focused on developing software solu
 
 ## 🛠️ Technical Skills
 
-## Programming Languages
+### Programming Languages
 - Python
 - JavaScript
 - C++
 - C#
 
-### Technologies & Tools
-- GitHub
+### Database
 - SQL
-- REST API
-- Power Platform
-- Database Systems
+- SQLite
+- Database Design
 
-## 📌 Currently Learning
+### Software Development
+- REST API Development
+- Object-Oriented Programming
+- Application Development
+- Software Testing & Debugging
+
+### Automation & Digital Tools
+- Microsoft Power Platform
+- Power Automate
+- SharePoint
+
+### Cloud & Platforms
+- Microsoft Azure (Learning)
+
+### Tools
+- Git & GitHub
+- VS Code
+
+## 🚀 Featured Projects
+
+### IT Access Request Automation System
+
+A workflow automation solution designed to digitise IT access requests by replacing manual submission and approval processes.
+
+**Technologies:**
+- Microsoft Forms
+- Power Automate
+- SharePoint
+
+## 🎯 Current Focus
+
+Building projects focused on:
+- Enterprise application development
+- Workflow automation
+- Data-driven solutions
+
+## 📚 Currently Learning
 
 - Full Stack Application Development
 - Backend API Development
+- Database Design
 - Cloud Fundamentals
 - Data Analytics
-
-## 💻 Projects
-
-Currently building projects focused on:
-- Enterprise workflow solutions
-- Automation systems
-- Data-driven applications
 
 ## 📫 Connect With Me
 
 LinkedIn:
-(Add your LinkedIn link here)
+https://www.linkedin.com/in/kumaravell-sathiyamurthi
