@@ -1,4 +1,4 @@
-# Hi, I'm Kumar 👋
+# Hi, I'm Kumaravell Sathiyamurthi  👋
 
 I am an Information Technology undergraduate passionate about building digital solutions through software development, automation, and data-driven technologies.
 
