@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Kumar 👋
 
-<!--
-**Kumar2333/Kumar2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Technology undergraduate passionate about building digital solutions through software development, automation, and data-driven technologies.
 
-Here are some ideas to get you started:
+## 🚀 Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software Development
+- Digital Technology Solutions
+- Business Process Automation
+- Data Analytics
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- JavaScript
+- C++
+- C#
+
+### Technologies & Tools
+- GitHub
+- SQL
+- REST API
+- Power Platform
+- Database Systems
+
+## 📌 Currently Learning
+
+- Full Stack Application Development
+- Backend API Development
+- Cloud Fundamentals
+- Data Analytics
+
+## 💻 Projects
+
+Currently building projects focused on:
+- Enterprise workflow solutions
+- Automation systems
+- Data-driven applications
+
+## 📫 Connect With Me
+
+LinkedIn:
+(Add your LinkedIn link here)
