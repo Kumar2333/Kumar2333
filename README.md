@@ -1,6 +1,6 @@
 # Hi, I'm Kumaravell Sathiyamurthi  👋
 
-I am an Information Technology undergraduate passionate about building digital solutions through software development, automation, and data-driven technologies.
+I am an Information Technology undergraduate focused on developing software solutions, business automation systems, and data-driven applications. I enjoy transforming ideas and real-world problems into practical technology solutions.
 
 ## 🚀 Areas of Interest
 
@@ -11,7 +11,7 @@ I am an Information Technology undergraduate passionate about building digital s
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+## Programming Languages
 - Python
 - JavaScript
 - C++
